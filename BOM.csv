@@ -1,1 +1,37 @@
 
+THIS IS A ROUGH BOM, PRICES NOT ATTACHED YET
+3d printed stuff
+main body
+bin for dirt and stuff
+vaccum stuff
+sensors
+ultrasonic
+limit
+ir cliff sensors
+wheels + caster
+dc gearbox motors
+brushes 
+esp32 (low v, 3.3)
+l298n (motor driver)
+alts; DRV8833
+TB6612FNG 
+smaller & better ^^^
+oled display or gc9a01 round display (1.28 in dia) 
+counter spinning brushes (toothbruh/broom idk??)
+silicone side brushes
+5v/12v blower fan
+fine mesh filter dust
+lipo battery
+3.7v single cell 
+2S 7.4v
+lipo charging TP4056
+boost/buck converters
+logic level shifter
+flyback diodes
+capacitors
+perfboard
+jst connectors
+usb-c breakout w pd, could replace TP4056 (BQ25895)
+buzzer for sound ig??
+leds
+power switch

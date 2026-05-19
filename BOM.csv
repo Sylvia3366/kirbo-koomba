@@ -15,9 +15,8 @@ esp32 (low v; 3.3), N/A, N/A
 l298n (motor driver), N/A, N/A
 alts; DRV8833, N/A, N/A
 TB6612FNG , N/A, N/A
-smaller & better ^^^, N/A, N/A
 oled display or gc9a01 round display (1.28 in dia) , N/A, N/A
-counter spinning brushes (toothbruh/broom idk??), N/A, N/A
+counter spinning brushes, N/A, N/A
 silicone side brushes, N/A, N/A
 5v/12v blower fan, N/A, N/A
 fine mesh filter dust, N/A, N/A
@@ -31,7 +30,7 @@ flyback diodes, N/A, N/A
 capacitors, N/A, N/A
 perfboard, N/A, N/A
 jst connectors, N/A, N/A
-usb-c breakout w pd, could replace TP4056 (BQ25895), N/A, N/A
-buzzer for sound ig??, N/A, N/A
+usb-c breakout w pd; could replace TP4056 (BQ25895), N/A, N/A
+buzzer, N/A, N/A
 leds, N/A, N/A
 power switch, N/A, N/A

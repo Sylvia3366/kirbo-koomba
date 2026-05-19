@@ -1,37 +1,37 @@
 
-THIS IS A ROUGH BOM PRICES NOT ATTACHED YET
-3d printed stuff
-main body
-bin for dirt and stuff
-vaccum stuff
-sensors
-ultrasonic
-limit
-ir cliff sensors
-wheels + caster
-dc gearbox motors
-brushes 
-esp32 (low v, 3.3)
-l298n (motor driver)
-alts; DRV8833
-TB6612FNG 
-smaller & better ^^^
-oled display or gc9a01 round display (1.28 in dia) 
-counter spinning brushes (toothbruh/broom idk??)
-silicone side brushes
-5v/12v blower fan
-fine mesh filter dust
-lipo battery
-3.7v single cell 
-2S 7.4v
-lipo charging TP4056
-boost/buck converters
-logic level shifter
-flyback diodes
-capacitors
-perfboard
-jst connectors
-usb-c breakout w pd, could replace TP4056 (BQ25895)
-buzzer for sound ig??
-leds
-power switch
+Item, Cost, Source
+3d printed stuff, N/A, N/A
+main body, N/A, N/A
+bin for dirt and stuff, N/A, N/A
+vaccum stuff, N/A, N/A
+sensors, N/A, N/A
+ultrasonic, N/A, N/A
+limit, N/A, N/A
+ir cliff sensors, N/A, N/A
+wheels + caster, N/A, N/A
+dc gearbox motors, N/A, N/A
+brushes , N/A, N/A
+esp32 (low v; 3.3), N/A, N/A
+l298n (motor driver), N/A, N/A
+alts; DRV8833, N/A, N/A
+TB6612FNG , N/A, N/A
+smaller & better ^^^, N/A, N/A
+oled display or gc9a01 round display (1.28 in dia) , N/A, N/A
+counter spinning brushes (toothbruh/broom idk??), N/A, N/A
+silicone side brushes, N/A, N/A
+5v/12v blower fan, N/A, N/A
+fine mesh filter dust, N/A, N/A
+lipo battery, N/A, N/A
+3.7v single cell , N/A, N/A
+2S 7.4v, N/A, N/A
+lipo charging TP4056, N/A, N/A
+boost/buck converters, N/A, N/A
+logic level shifter, N/A, N/A
+flyback diodes, N/A, N/A
+capacitors, N/A, N/A
+perfboard, N/A, N/A
+jst connectors, N/A, N/A
+usb-c breakout w pd, could replace TP4056 (BQ25895), N/A, N/A
+buzzer for sound ig??, N/A, N/A
+leds, N/A, N/A
+power switch, N/A, N/A
